@@ -127,4 +127,21 @@ Experience is the real reward.
 
 Pick an issue. Explore. Experiment. Learn.
 
+
+### 💬 A Note for Our Contributors**
+
+Thank you for participating in **UXplained**. Taking the first step matters more than being perfect, and we’re glad you’re here.
+
+If you get stuck at any point — even with a very basic doubt , feel free to reach out to your mentors anytime, that’s exactly why mentors are for.
+
+We’re always happy to help and guide you through the process.
+
+Keep learning, keep experimenting, and enjoy the journey.
+
+With Excitement!
+
+— **Your Mentors 🤍**
+
+### **Jasmine Rahi & Aditya Ajay**
+
 Happy designing 💫
