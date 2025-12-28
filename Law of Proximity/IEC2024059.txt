@@ -1,0 +1,15 @@
+https://www.figma.com/design/TSXGJmtXgHig8Vf3EMuWct/PROXIMITY?node-id=0-1&t=Ng0UXN56d1Kw1MWF-1
+
+
+Left side (Bad Proximity):
+
+	-The labels “Google Search” and “Date” are far from the elements they relate to.
+	-Color blocks and input boxes are scattered, making it harder to understand grouping.
+
+Right side (Good Proximity):
+
+	-Related items (like “Date” and “Google Search”) are closer to their respective input 		fields.
+	-Elements that belong together are visually grouped.
+	-White space is used effectively to separate groups without confusion.
+
+Overall, the right side clearly communicates grouping and relationships, making it much easier for a user to scan and interact with.
