@@ -1,0 +1,7 @@
+FIGMA: 
+https://www.figma.com/design/tEGrxXm1fZtlHn4jVFmDpG/Untitled?node-id=0-1&t=Dq2uKzMQ8qiMYZZZ-1
+
+Explanation:
+In the "YES" version, every action is a circle. Because they share the same shape, viewer instantly categorizes them as "buttons that do the same type of thing". The difference in colour also indicated that they are On-andOff switches of sorts. By using green exclusively for "On" states and grey for "Off," we create a visual language. 
+
+On the "NO" side, the red WiFi and green Location buttons are confusing. The colours are chosen randomly, so the viewer is left pondering the usability. Further, all items are of different types: buttons, toggle, labels. So, the viewer has to think at least thrice. On the "YES" side, you only have to learn the rule once.
