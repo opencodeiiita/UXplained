@@ -1,0 +1,22 @@
+https://www.figma.com/design/DPrdCj32ZURsUBQpDxnSPn/Proximity?node-id=0-1&t=uBVHePvCnuenmGQi-1
+
+Bad Proximity (Left Side)
+
+-On the left card, everything is spread out almost the same way.
+-The name, level, rank, points, and progress all feel unrelated
+-Nothing is clearly grouped, so the user has to slow down and read carefully
+-The “Add Friend” button doesn’t feel like part of the profile
+
+How it feels:
+A bit confusing and messy. You’re working harder than you should.
+
+Good Proximity (Right Side)
+
+-On the right card, related things are kept close.
+-The profile picture, name, and level sit together
+-Rank and shopping points are grouped with icons
+-Extra space separates different sections clearly
+-The “Add Friend” button feels like the natural next step
+
+How it feels:
+Clean, calm, and easy to understand at a glance.
