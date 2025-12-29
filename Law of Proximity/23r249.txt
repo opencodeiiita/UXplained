@@ -1,0 +1,4 @@
+https://www.figma.com/design/pzhpWyCXCE4AudF01H2bnP/Untitled?node-id=0-1&t=Zo4rqwl8TzFMi9EM-1
+
+Explanation :
+  This is a simple figma design for the movies list that is showing in the Netflix kind of apps.This design provides an example of poor and good proximity by ordering in the specific manner like spacing .
