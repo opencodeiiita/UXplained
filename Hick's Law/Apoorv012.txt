@@ -1,0 +1,8 @@
+https://www.figma.com/design/ggMVIDcZ8FwMInggKMtGM1/Hicks-Law?node-id=0-1&t=xQ9unTChfp8oVw75-1
+
+So, the hick laws says, that the more options you have on a screen, more the time the user takes.
+The user is overwhelmed with so many options, that it becomes difficult to choose.
+
+Like, in this example, if I supply the user with all the food options, it is too tough for him/her to choose from them.
+But, on the second screen, when I ask the user which cuisine they would like, I only showed 3 options, which was easy to choose, and later I asked which dish from that cuisine.
+So, this progressive questioning from the user makes it easier for them to choose easily, in less time, hence improving the user experience.
