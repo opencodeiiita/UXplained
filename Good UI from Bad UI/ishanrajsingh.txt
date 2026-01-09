@@ -1,0 +1,6 @@
+Figma Link:
+https://www.figma.com/design/4RxqJFCRrsJ272iIcENcaD/Untitled?node-id=0-1&t=1HpWdgoglaJLKbNO-1
+
+Description:
+
+Made modern layout UI , with card styles. Added services section with all cards. Added Navbar in second screen with matching icons
