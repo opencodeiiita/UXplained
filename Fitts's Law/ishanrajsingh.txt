@@ -1,0 +1,6 @@
+Figma Link:
+https://www.figma.com/design/y3kbQV85Bi1T44HwODGxIK/Untitled?node-id=0-1&t=VTzIkmtF5sgEuYs4-1
+
+README:
+
+I have made a grocey cart checkout page having primary and secondary buttons, explaining fitts law. Big Place Order Button, so the user wants to interact with the button
