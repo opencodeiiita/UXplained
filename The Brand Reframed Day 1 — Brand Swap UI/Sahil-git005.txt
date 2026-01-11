@@ -1,0 +1,11 @@
+made a app interface
+*****app name -  RapidCall *****
+
+
+A calling app where users do not hear unnecessary instructions during calls,
+ ensuring fast and distraction-free communication.
+
+
+basically this is just my idea till now ;
+
+figma link - https://www.figma.com/design/CNrSo5niCNak5tL0qJzghp/Brand-Swap-UI?node-id=0-1&t=okiTCKxuM558A2HO-1
