@@ -1,0 +1,3 @@
+Figma Link: https://www.figma.com/design/xCJzEEgsQk1tVOuiZRUkvu/Untitled?node-id=0-1&t=HYnLqRhXmW6EpCLz-1
+Brand Pair: YouTube → Netflix Style
+Description: This design transforms YouTube into a Netflix-like experience with a cinematic hero banner, overlayed title, and call-to-action. Videos are displayed in horizontal carousels with hover previews, combining YouTube’s dynamic content with Netflix’s immersive layout and dark, cinematic theme.
