@@ -1,0 +1,6 @@
+Figma Link: https://www.figma.com/design/0JnV5fbRXsWYiH7V6ufFfH/Bad-UI-to-Good-UI?node-id=0-1&t=gj95GSbe4bttKmKp-1
+
+Description:
+I made specific sections for similar options.
+I placed the promotions in a place, which is very easy to see, to get attaction.
+I structured the complete page, instead of a cluttered bunch of buttons.
