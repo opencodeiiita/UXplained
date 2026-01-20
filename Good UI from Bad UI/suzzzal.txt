@@ -1,0 +1,7 @@
+Figma Link:
+https://www.figma.com/design/L8WGBFlAhfXY98BYb0ITcY/Untitled?node-id=0-1&t=IC4QltQU4WICirTY-1
+
+
+Description:
+I redesigned the bad UI by improving spacing, hierarchy, alignment,
+color contrast, and readability while keeping the original flow unchanged.
