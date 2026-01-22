@@ -1,0 +1,4 @@
+Figma Link:
+https://www.figma.com/design/I950dB9b4HaeyVo9nWthaQ/GOOD-UI?node-id=0-1&t=FfgEusqLpcrLmgwc-1
+
+Description: I moved away from the cluttered, texture-heavy original to a clean, flat aesthetic that prioritizes clarity. The dashboard now uses a spacious grid layout for instant readability, while the promotions page swaps dense text for well-spaced cards, making the content much easier to scan. By shifting to a modern blue gradient theme and removing the visual noise, the interface feels significantly more polished and user-friendly.
