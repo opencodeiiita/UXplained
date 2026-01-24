@@ -1,0 +1,7 @@
+Figma Link: https://www.figma.com/design/Ry7ScWodaL8IV3X3iZn6p5/Aesthetic%E2%80%93Usability-Effect?t=tG1DvAursx5lAmAa-1
+
+Description: 
+      This redesign improves visual clarity and perceived usability through better spacing, 
+      alignment, and visual hierarchy while keeping the original functionality unchanged. A 
+      simplified layout, clear labels, and consistent styling make the form easier to scan, 
+      understand, and use.
