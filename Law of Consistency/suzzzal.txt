@@ -1,0 +1,3 @@
+link - https://www.figma.com/design/2GEA5ifecIO0RgxY57bFu2/Untitled?node-id=0-1&t=o6929TsP6ZdjkMhQ-1
+
+I designed these screens using a consistent visual style across the login, home, and cart pages. I kept the same red color palette, typography, button styles, spacing, and layout structure on all screens. The heading ,input fields,and button follow the same patterns .Each screen uses the same consistent style and feel visually connected.
