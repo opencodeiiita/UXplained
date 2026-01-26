@@ -1,0 +1,10 @@
+https://www.figma.com/design/tX89oXkrkerKxXBFZDKVgZ/Untitled?node-id=0-1&t=SgtHQszh28T5oRyP-1
+
+DESCRIPTION:
+
+This UI showcases a modern, card-based payment interface with a soft gradient background for a premium financial feel.
+The design separates card preview and form input to improve clarity and user focus. 
+Rounded corners and smooth color transitions enhance visual appeal and usability. 
+Input fields are minimal with clear labels to reduce user errors. 
+The card mockup provides real-time visual feedback for entered details. 
+Overall, the layout emphasizes simplicity, trust, and a seamless payment experience.
