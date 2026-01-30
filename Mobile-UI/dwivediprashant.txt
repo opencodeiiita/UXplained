@@ -1,0 +1,20 @@
+https://www.figma.com/design/RVjSdUsgT4PzQrvZowbJ5a/Untitled?node-id=0-1&t=a0Ovc8HQcL3i84om-1
+
+-- BRIEF EXPLANATION ABOUT DESIGN LAWS AND PRINCIPLES USED IN THE DESIGN --
+
+
+Visual Hierarchy: Size, color, and weight prioritize key elements like progress, CTAs, and play buttons to guide user attention instantly.
+
+Gestalt Law of Proximity: Related items (course info, progress, actions) are grouped in cards, making information easy to scan and understand.
+
+Contrast: Strong color contrast highlights primary actions and active states, improving clarity and focus.
+
+Fitts’s Law: Large buttons and navigation targets reduce interaction effort and mis-taps on mobile.
+
+Consistency & Repetition: Repeated card layouts, progress bars, and navigation patterns improve learnability and usability.
+
+Hick’s Law: Limited visible options per screen reduce cognitive load and speed up decision-making.
+
+Alignment & Grid: Clean alignment creates visual order and professional structure.
+
+Visibility of System Status: Progress indicators and online status provide continuous user feedback.
