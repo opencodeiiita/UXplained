@@ -1,0 +1,15 @@
+Figma Link:
+https://www.figma.com/design/NvfbCSlGOK9NZPQExW2I54/Mobile-UI-Design-Challenge%E2%80%94-Part-2?node-id=0-1&t=RdmQuAlyHZ5KmHye-1
+
+Design Approach:
+        Focused on clear user flow, minimal cognitive load, and consistency across screens, with 
+accessibility-friendly spacing, contrast, and tap targets.
+
+Screens Chosen:
+    Progress Tracking
+    Downloads / Saved Content
+    Certificates / Achievements
+
+UI/UX Laws Applied:
+    Visual hierarchy, Gestalt principles, Hick’s Law, Fitts’s Law, feedback & system visibility, 
+and cognitive load reduction.
