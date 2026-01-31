@@ -1,0 +1,15 @@
+Figma Link:
+https://www.figma.com/design/AsxqRLeVmejPqVgwKrf5G0/edu-app?node-id=0-1&t=0qfyk5VOtbcftXO1-1
+
+Approach:
+I created screens that user would like to watch, by applying Laws of UI/UX
+
+I have additionaly created - settings screen, notifications screen, resources screen
+
+UI/UX Laws Applied:- 
+
+Visual hierarchy - added proper hierarchy
+Consistency & repetition - consistent styling and colours
+Hick’s Law - Appealing screens
+Fitts’s Law - Appealing buttons
+Accessibility basics - Proper alignment
