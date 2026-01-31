@@ -1,0 +1,12 @@
+Figma Link:
+https://www.figma.com/design/u1kKIcQ47OH7IoQZeIJgfC/Untitled?node-id=0-1&t=zg392fo6PsKtlXu5-1
+
+Approach:
+Created an educational app in which users can enroll and study courses, find/join team for hackathons and play educational games
+
+Laws Applied:
+Visual hierarchy - proper hierarchy structure
+Consistency & repetition - consistent design , styling, colours
+Hick’s Law - appealing screens
+Fitts’s Law - appealing buttons
+Accessibility basics - proper alignment
